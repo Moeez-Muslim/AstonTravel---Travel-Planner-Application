@@ -1,7 +1,3 @@
-Certainly! Here's a sample README description for your project:
-
----
-
 # AstonTravel - Travel Planner Application
 
 AstonTravel is a simple text-based Travel Planner application built in Java, designed to help users explore information about various tourist destinations, find nearby locations, calculate distances, and plan the shortest travel path covering desired cities.
@@ -43,7 +39,3 @@ Contributions are welcome! Please feel free to submit issues or pull requests.
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to customize it further based on your project specifics!
